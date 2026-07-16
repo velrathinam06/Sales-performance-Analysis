@@ -1,0 +1,1 @@
+This project demonstrates how Microsoft Excel can be used to clean, transform, analyze, and visualize sales data. The dataset contains over 4,000 sales records with information such as Order ID, Order Date, Region, Product Category, Sales Amount, Quantity Sold, Discount, and Profit.
